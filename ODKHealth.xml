@@ -1,25 +1,17 @@
 
- <!--
-      eIMCI
-      Created by Dimagi based on eIMCI from Mtwara study
-      Modified in July 2010 by Tom Routen for NIH study
-      Reference document: Management of Childhood Illnesses from MOH, Tanzania, from PDF file named: "Chartbooklet Arusha 06 09 2007 English"
-      -->
-
-
 <h:html xmlns="http://www.w3.org/2002/xforms"
         xmlns:h="http://www.w3.org/1999/xhtml"
         xmlns:ev="http://www.w3.org/2001/xml-events"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema"
         xmlns:jr="http://openrosa.org/javarosa">
   <h:head>
-    <h:title>eIMCI by D-Tree</h:title>
+    <h:title>ODK Health Profiling Tools</h:title>
 
     <model>
       <instance>
-        <imci xmlns="http://dtree.org/e-imci" id="imci">
+        <imci xmlns="http://dtree.org/ODKHealth" id="imci">
         <meta>
-		  <formName>eIMCI</formName>
+		  <formName>ODKHealth</formName>
 		  <formVersion>0.0.1</formVersion>
 		  <DeviceID />
 		  <TimeStart />
