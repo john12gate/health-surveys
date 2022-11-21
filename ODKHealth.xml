@@ -29,7 +29,7 @@
           		<breathing_status/>
           		<fever_status/>
           		<eating_status/>
-          	</pneumonia	>
+          	</pneumonia>
           	<diarrhea>
           		<stopped/>
           		<loose_stools/>
